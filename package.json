@@ -1,0 +1,6 @@
+git init                
+git add .
+git commit -m "Initial commit"
+git branch -M main      # macht main zum Standardbranch
+git remote add origin https://github.com/JhansiChat/Stuttgart-Yard.git
+git push -u origin mai
